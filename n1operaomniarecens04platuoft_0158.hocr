@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./n1operaomniarecens04platuoft/n1operaomniarecens04platuoft_0158.png"; bbox 0 0 1687 2969; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 371 963 1538 1000">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 371 963 1538 1000">
+     <span class='ocr_line' id='line_1_1' title="bbox 371 963 1538 1000; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 371 967 458 1000; x_wconf 78' lang='grc' dir='ltr'><em>ΤΛ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 509 966 646 999; x_wconf 74' lang='grc' dir='ltr'><em>ΊΟΥ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 694 964 1108 999; x_wconf 73' lang='grc' dir='ltr'><em>ΔΙΛΛΟΓΟΥ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1157 963 1538 999; x_wconf 66' lang='grc' dir='ltr'><em>ΠΡΟΣΙΔῙΙΑ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 529 1079 1373 1127">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 529 1079 1373 1127">
+     <span class='ocr_line' id='line_1_2' title="bbox 529 1079 1373 1127; baseline -0.004 -2"><span class='ocrx_word' id='word_1_5' title='bbox 529 1083 896 1127; x_wconf 72' lang='grc' dir='ltr'><em>ΣΩΚΡΑΤΗΣ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 930 1084 1043 1125; x_wconf 77' lang='grc' dir='ltr'><em>ΚΑΙ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1082 1079 1373 1125; x_wconf 65' lang='grc' dir='ltr'><em>(ΙΙΛΙΛΙὈΣ.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
