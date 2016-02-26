@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./n1operaomniarecens04platuoft/n1operaomniarecens04platuoft_0013.png"; bbox 0 0 1687 2969; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 551 224 1035 302">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 551 224 1035 302">
+     <span class='ocr_line' id='line_1_1' title="bbox 551 224 1035 302; baseline 0.01 -5"><span class='ocrx_word' id='word_1_1' title='bbox 551 224 1035 302; x_wconf 78' lang='lat' dir='ltr'>PLATONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 114 498 1463 600">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 114 443 1463 600">
+     <span class='ocr_line' id='line_1_2' title="bbox 114 498 1463 600; baseline 0.005 -7"><span class='ocrx_word' id='word_1_2' title='bbox 114 498 1463 600; x_wconf 72' lang='lat' dir='ltr'><strong>PRAEDRUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 655 787 934 820">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 655 787 934 820">
+     <span class='ocr_line' id='line_1_3' title="bbox 655 787 934 820; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 655 787 934 820; x_wconf 79' lang='lat' dir='ltr'>RECENSUIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 116 1032 1461 1158">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 116 1032 1461 1158">
+     <span class='ocr_line' id='line_1_4' title="bbox 116 1032 1461 1078; baseline 0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 116 1032 705 1078; x_wconf 78' lang='lat' dir='ltr'>PROLEGOMENIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 746 1033 834 1075; x_wconf 78' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 876 1032 1461 1077; x_wconf 79' lang='lat' dir='ltr'><strong>COMMENTARIIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 577 1113 993 1158; baseline -0.007 -1"><span class='ocrx_word' id='word_1_7' title='bbox 577 1113 993 1158; x_wconf 78' lang='lat' dir='ltr'><strong>INSTRUXIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 431 1373 1125 1415">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 431 1373 1125 1415">
+     <span class='ocr_line' id='line_1_6' title="bbox 431 1373 1125 1415; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 431 1373 776 1415; x_wconf 61' lang='lat' dir='ltr'><strong>commanus</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 808 1373 1125 1414; x_wconf 66' lang='lat' dir='ltr'><strong>STALLBAUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 254 1632 1325 1757">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 254 1632 1325 1757">
+     <span class='ocr_line' id='line_1_7' title="bbox 254 1632 1325 1681; baseline 0.009 -10"><span class='ocrx_word' id='word_1_10' title='bbox 254 1632 389 1672; x_wconf 67' lang='lat' dir='ltr'>liffl&#39;l&#39;lo</span> <span class='ocrx_word' id='word_1_11' title='bbox 419 1633 609 1674; x_wconf 61' lang='lat' dir='ltr'>SECUNDA</span> <span class='ocrx_word' id='word_1_12' title='bbox 639 1635 793 1675; x_wconf 73' lang='lat' dir='ltr'>MULTIS</span> <span class='ocrx_word' id='word_1_13' title='bbox 824 1636 1032 1677; x_wconf 59' lang='grc' dir='ltr'><strong>ΡΛΙίΤΙΒῐῖὸ1</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1062 1638 1238 1681; x_wconf 68' lang='grc' dir='ltr'><strong>ΑΜὶΤΙθΡι</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1271 1642 1325 1681; x_wconf 79' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 649 1715 930 1757; baseline 0.011 -3"><span class='ocrx_word' id='word_1_16' title='bbox 649 1715 930 1757; x_wconf 70' lang='lat' dir='ltr'><strong>EMENDATIOR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 348 2544 1229 2682">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 348 2544 1229 2682">
+     <span class='ocr_line' id='line_1_9' title="bbox 526 2544 1044 2593; baseline -0.004 -10"><span class='ocrx_word' id='word_1_17' title='bbox 526 2544 683 2584; x_wconf 45' lang='lat' dir='ltr'><strong>&amp;3⁰¹ch</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 716 2544 764 2585; x_wconf 70' lang='lat' dir='ltr'><strong>m*</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 795 2547 1044 2593; x_wconf 60' lang='lat' dir='ltr'><strong>Em&#39;omimt,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 348 2646 1229 2682; baseline 0.006 -5"><span class='ocrx_word' id='word_1_20' title='bbox 348 2646 755 2679; x_wconf 67' lang='lat' dir='ltr'><strong>SL‘MTIBL&#39;S</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 803 2649 1229 2682; x_wconf 56' lang='lat' dir='ltr'>HENNINGS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 643 2741 934 2781">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 643 2741 934 2781">
+     <span class='ocr_line' id='line_1_11' title="bbox 643 2741 934 2781; baseline 0 -1"><span class='ocrx_word' id='word_1_22' title='bbox 643 2741 934 2781; x_wconf 80' lang='lat' dir='ltr'>MDGCGLVH.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
